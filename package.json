@@ -1,6 +1,6 @@
 {
   "name": "@capacitor-community/wifi",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Wifi Plugin for iOS, Android and Electron",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
